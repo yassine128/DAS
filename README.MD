@@ -1,11 +1,6 @@
 # DAS (Driving Assistant System)
 
 - `🟢` Lane Detection 
-- `🟠` Warning if leaving the lane 
-- `🔴` Car detection 
-- `🔴` Warning if getting too close to other cars 
-- `🔴` C++ rewrite 
-
 
 ## Lane Detection 
 
